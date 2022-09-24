@@ -9,7 +9,7 @@ Telephone:       +420721685439
 Place of birth:  Kherson  
 Date of birth:   31.03.2006  
 Nationality:     Ukrainian  
-E-mail:          Liashevskiy@gmail.com     
+E-mail:          liashevskiy@gmail.com     
 Discord: 		  stasbebra2006#9051
 
 ## Education
@@ -22,7 +22,7 @@ Languages:
 - Czech         Elementary  
 ## Computer skills
 
-Programming language: C++,C#,JS,CSS,HTML
+Programming language: C++,C#,JS
 
 
 Operating systems Windows,Android,Linux
