@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-<img src = "https://github.com/stasbebra2006/rsschool-cv/blob/gh-pages/images/photo_2022-08-16_17-10-02.jpg?raw=true" width = "240" height = "250" alt = "CV photo" align = "center" />
+<img src = "https://github.com/stasbebra2006/rsschool-cv/blob/gh-pages/images/IMG_20220817_115720_104.jpg?raw=true" width = "240" height = "250" alt = "CV photo" align = "center" />
 
 Stanislav Liashevskiy  
 ## Personal Data  
