@@ -1,0 +1,771 @@
+.header {
+	position: absolute;
+	width: 1600px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+	
+	background: #000000;
+	backdrop-filter: blur(2px);
+}
+
+.style {
+	position: absolute;
+height: 780px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+background: #283035;
+
+
+/* Giant Panda */
+
+
+position: absolute;
+height: 780px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+/*background: url(Giant Panda.png);*/
+
+
+/* PetStory online */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 72.49px;
+height: 44.91px;
+left: 4.75px;
+top: 3.55px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.0145px;
+line-height: 120%;
+/* or 23px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+border: 1.18841px solid #FFFFFF;
+}
+
+.navbar1 {
+	text-decoration: none;
+	position: absolute;
+width: 43px;
+height: 22px;
+left: 365px;
+top: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+/* orange */
+
+background: linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-emphasis-color: transparent;
+
+}
+
+
+.navbar2 {
+	text-decoration: none;
+	position: absolute;
+width: 32px;
+height: 22px;
+left: 466px;
+top: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #FFFFFF;
+}
+
+.navbar3 {
+	text-decoration: none;
+	position: absolute;
+width: 36px;
+height: 22px;
+left: 556px;
+top: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #FFFFFF;
+
+}
+
+.navbar4 {
+	text-decoration: none;
+	position: absolute;
+width: 51px;
+height: 22px;
+left: 650px;
+top: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #FFFFFF;
+}
+
+.navbar5 {
+	text-decoration: none;
+	position: absolute;
+width: 100px;
+height: 22px;
+left: 759px;
+top: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #FFFFFF;
+
+}
+
+.petstoryonline {
+	box-sizing: border-box;
+
+position: absolute;
+width: 82px;
+height: 52px;
+left: 220px;
+top: 15px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.0145px;
+line-height: 120%;
+/* or 23px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+border: 1.18841px solid #FFFFFF;
+border-radius: 2px;
+}
+
+.navbar6 {
+	text-decoration: none;
+	position: absolute;
+width: 140px;
+height: 22px;
+left: 1275px;
+top: 29px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #FFFFFF;
+}
+
+.head-text {
+	position: absolute;
+	width: 500.31px;
+	height: 400px;
+	left: calc(50% - 500.31px/2 + 330.15px);
+	top: 60px;
+	
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 106.496px;
+	line-height: 75%;
+	/* or 80px */
+	
+	text-align: center;
+	text-transform: uppercase;
+	
+	color: #FFFFFF;
+	z-index: 1000;
+	font-family: 'Roboto', sans-serif;
+}
+
+.Elipse {
+	position: absolute;
+width: 465px;
+height: 465px;
+left: calc(50% - 465px/2 + 239.5px);
+top: 92px;
+border-radius: 50%;
+/* orange */
+
+background: linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
+}
+
+.z2 {
+	position: absolute;
+height: 780px;
+width: 1600px;
+left: 0px;
+right: 0px;
+top: 0px;
+z-index: -1;
+background-size:cover;
+background-image: url(https://github.com/stasbebra2006/ForceBroFiles/blob/main/Giant%20Panda.png?raw=true);
+}
+
+.Watch {
+	position: absolute;
+width: 298px;
+height: 54px;
+left: calc(50% - 298px/2 + 332px);
+top: 626px;
+
+/* orange */
+
+background: linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
+border-radius: 25px;
+}
+
+
+.head-text1 {
+	color:#FFEE2E;
+	font-family: 'Roboto', sans-serif;
+}	
+
+.watch-text {
+	position: absolute;
+width: 292px;
+height: 22px;
+left: 5px;
+top: 16px;
+
+/* btn. */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+z-index: 1000;
+}
+
+
+.DedText {
+	position: absolute;
+height: 403px;
+width: 1170px;
+left: 219px;
+right: 220px;
+top: 920px;
+}
+
+
+.left {
+	float: left;
+	position: absolute;
+width: 609px;
+height: 403px;
+left: 0px;
+top: 0px;
+background: url(https://github.com/stasbebra2006/ForceBroFiles/blob/main/bamboo-cap.png?raw=true);
+backdrop-filter: blur(2px);
+}
+
+
+.right {
+	display: flex;
+	flex-direction: column;
+	float: right;
+	position: absolute;
+	right: 0px;
+	width: 500px;
+}
+
+.DedText1 {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 48px;
+	line-height: 58px;
+	position: relative;
+	word-wrap: break-word;
+	color: #333B41;
+	top: 0px;
+	left: 0px;
+	margin-top: 0;
+  	
+}
+
+.DedText2 {
+	position: relative;
+	word-wrap: break-word;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 30px;
+	color: #333B41;
+	left: 0px;
+}
+
+
+.bamboo {
+	box-sizing: border-box;
+
+position: absolute;
+width: 7.03px;
+height: 20.98px;
+left: 13.23px;
+top: 24.64px;
+}
+
+
+
+.flow1 {
+	position: absolute;
+width: 293px;
+height: 605px;
+left: 1400px;
+top: 792px;
+
+background: url(https://cdn.discordapp.com/attachments/902240087121739786/1023967764207124500/flower_foto1.png) no-repeat;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.flow2 {
+	position: absolute;
+	width: 880px;
+height: 460px;
+left: 0px;
+top: 2149px;
+	background: url(https://cdn.discordapp.com/attachments/902241295462973502/1023974397834448966/palm_foto.png) no-repeat;
+}
+
+.flow3 {
+	position: absolute;
+	width: 368px;
+height: 275px;
+left: 1232px;
+top: 2334px;
+
+	background: url(https://cdn.discordapp.com/attachments/902241295462973502/1023975964423761940/strelitzia_1.png) no-repeat;
+	
+}
+
+.grad {
+	position: absolute;
+height: 1004px;
+left: 0px;
+right: 0px;
+top: 2609px;
+width: 1600px;
+
+/* orange_gradient */
+
+background: linear-gradient(315.75deg, rgba(254, 210, 144, 0.7) 30.06%, #FEBDAB 100.95%, rgba(254, 210, 144, 0.7) 106.36%), linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #E0D8F0 80.49%, #EAF7FE 127.9%, #EAF7FE 149.54%), linear-gradient(315.75deg, rgba(254, 189, 171, 0.74) 30.06%, rgba(243, 169, 248, 0.66) 50.74%, #E0D8F0 80.49%, #EAF7FE 127.9%, #EAF7FE 149.54%);
+opacity: 0.9;
+}
+
+.grad1 {
+	position: absolute;
+height: 835px;
+left: 220px;
+right: 220px;
+top: 69px;
+
+/* frosted_glass_white */
+
+background: rgba(253, 253, 255, 0.52);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 20px;
+}
+
+
+.ortext1 {
+	position: absolute;
+width: 463px;
+height: 58px;
+left: calc(50% - 463px/2 + 1.5px);
+top: 41px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 120%;
+/* identical to box height, or 58px */
+
+text-align: center;
+
+color: #FE9013;
+
+}
+
+
+.ortext2 {
+	position: absolute;
+width: 843px;
+height: 29px;
+left: calc(50% - 843px/2 - 59.5px);
+top: 129px;
+
+/* subtitle */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+
+color: #333B41;
+}
+
+
+.ortext3 {
+	position: absolute;
+width: 1061px;
+height: 21px;
+left: calc(50% - 1061px/2 + 49.5px);
+top: 198px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+
+color: #333B41;
+
+}
+
+.ortext4 {
+	position: absolute;
+width: 863px;
+height: 42px;
+left: calc(50% - 863px/2 - 49.5px);
+top: 229px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* or 21px */
+
+
+color: #333B41;
+}
+
+
+.ortext5 {
+	position: absolute;
+width: 209px;
+height: 47px;
+left: calc(50% - 209px/2 - 0.5px);
+top: 331px;
+
+/* h3 */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 130%;
+/* identical to box height, or 47px */
+
+
+color: #333B41;
+}
+
+
+.infobox1 {
+	position: absolute;
+width: 168px;
+height: 244px;
+left: calc(50% - 168px/2 - 298px);
+top: 418px;
+
+border-radius: 5px;
+}
+
+.infophoto1 {
+	box-sizing: border-box;
+
+position: absolute;
+width: 168px;
+height: 168px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 5px;
+border: 1px solid;
+
+border-color: #FE9013;
+}
+
+.infoimage1 {
+	position: absolute;
+	left: 30px;
+	top: 54px;
+	background: url(/Online-zoo/assets/pay.svg) no-repeat;
+	z-index: 1000;
+	width: 108px;
+	height: 60px;
+	
+}
+
+.infotext1 {
+	position: absolute;
+width: 168px;
+height: 46px;
+left: 0px;
+top: 198px;
+
+/* body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #333B41;
+
+}
+
+
+.infobox2 {
+	position: absolute;
+width: 168px;
+height: 244px;
+left: calc(50% - 168px/2);
+top: 418px;
+
+border-radius: 5px;
+}
+
+.infophoto2 {
+	box-sizing: border-box;
+
+position: absolute;
+width: 168px;
+height: 168px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 5px;
+border: 1px solid;
+
+border-color: #FE9013;
+}
+
+.infoimage2 {
+	position: absolute;
+	left: 43.5px;
+	top: 35px;
+	background: url(/Online-zoo/assets/zoo.svg) no-repeat;
+	z-index: 1000;
+	width: 87px;
+	height: 96px;
+	
+}
+
+
+.DedText3 {
+	position: absolute;
+width: 217px;
+height: 29px;
+left: 0;
+top: 232px;
+
+/* subtitle */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+
+color: #333B41;
+
+}
+
+
+
+.DedText4 {
+	position: absolute;
+height: 105px;
+left: 0;
+top: 295px;
+
+/* body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #333B41;
+
+}
+
+.infotext2 {
+	position: absolute;
+width: 168px;
+height: 46px;
+left: 0px;
+top: 198px;
+
+/* body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #333B41;
+
+}
+
+
+
+.infobox3 {
+	position: absolute;
+width: 168px;
+height: 244px;
+left: calc(50% - 168px/2 + 298px);
+top: 418px;
+
+border-radius: 5px;
+}
+
+.infophoto3 {
+	box-sizing: border-box;
+
+position: absolute;
+width: 168px;
+height: 168px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 5px;
+border: 1px solid;
+
+border-color: #FE9013;
+}
+
+.infoimage3 {
+	position: absolute;
+	left: 20px;
+	top: 46px;
+	background: url(/Online-zoo/assets/monkey.svg) no-repeat;
+	z-index: 1000;
+	width: 126px;
+	height: 73px;
+	
+}
+
+
+.infotext3 {
+	position: absolute;
+width: 168px;
+height: 46px;
+left: 0px;
+top: 198px;
+
+/* body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+
+color: #333B41;
+
+}
+
+
+.vector1 {
+	position: absolute;
+width: 75px;
+height: 40px;
+left: 403px;
+top: 480px;
+
+background: url(/Online-zoo/assets/Vector.svg) no-repeat;
+}
+
+.vector2 {
+	position: absolute;
+width: 75px;
+height: 40px;
+left: 701px;
+top: 480px;
+
+background: url(/Online-zoo/assets/Vector.svg) no-repeat;
+}
